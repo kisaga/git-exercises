@@ -1,6 +1,8 @@
 #### Exercise 3
 
 - Complete Exercise 2
+- Make a copy of exercise 2 folder
+- Navigate to the new folder for exercise 3 and do not modify the folder of exercise 2.
 - We have completed **A changes** and **B changes** and in the meantime we have made some additional changes on the `master` branch.
 - Now we want to include all these changes in the `master` branch.
 - Let's start with **A changes**. We need to merge the `a-changes` branch into the master.
