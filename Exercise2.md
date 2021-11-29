@@ -194,7 +194,6 @@ Let's observe the graph -> `git log  --oneline --graph --decorate`
 	* 489be22 my second commit
 	* 191fb85 my first commit
 	``` 
--   Copy the folder with the project three times. You will need three copies for the next exercises.
 - Jump from branch to branch and check that the **HEAD** is showing the correct location.
 - Can you move the HEAD to a commit that is not the latest commit of any branch?
 - You can download a git visualization tool in you want to see the graph without using `git log  --oneline --graph --decorate --all` or `git log  --oneline --graph --decorate`. I prefer using SourceTree for Mac and Windows and gitg for Ubuntu. GitHub desktop is very good but it cannot be set up easily for other git repositories like gitlab or bitbucket.
